@@ -1,6 +1,6 @@
 package com.jkxy.car.api.pojo;
 
-
+//maybe a test
 public class Car {
     private int id;
     private String carName;
